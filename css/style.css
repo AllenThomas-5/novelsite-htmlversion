@@ -1,0 +1,12 @@
+i.fab {
+    font-size: 4rem;
+    opacity: 30%;
+}
+
+i.fab:hover {
+    opacity: 70%;
+}
+
+a.cardblock-links:hover {
+    text-decoration:none;
+}
